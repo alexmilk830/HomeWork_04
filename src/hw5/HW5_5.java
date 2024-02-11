@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class HW5_5 {
 	public static void main(String[] args) {
-
+		int i = (int)9.9;
+		System.out.println(i);
 		getAuthCode();
 
 	}
